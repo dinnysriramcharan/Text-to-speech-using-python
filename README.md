@@ -9,6 +9,7 @@
 ### 3.OS library 
 
 ## Python Text to Speech Project Output
+![Screenshot (84)](https://user-images.githubusercontent.com/65099575/150471934-d691a791-83e2-45e8-aad0-0dc4cb81596b.png)
 
 
 ## Summary
